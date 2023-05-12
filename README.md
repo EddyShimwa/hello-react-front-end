@@ -16,7 +16,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [🚀 Live Demo](#Back-end-repo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -53,11 +53,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+## 🚀 Back-end Api Repository <a name="Back-end-repo"></a>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Live Demo not yet implemented
+- [Back-end-api repo](https://github.com/EddyShimwa/hello-rails-back-end)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

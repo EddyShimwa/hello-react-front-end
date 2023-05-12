@@ -12,11 +12,7 @@ export const fetchMessages = () => async (dispatch) => {
 
 const messagesSlice = createSlice({
   name: 'messages',
-  initialState: {
-    messages: [],
-    loading: false,
-    error: null,
-  },
+  initialState: '',
   reducers: {
     setMessages,
     setLoading: (state) => {
